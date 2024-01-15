@@ -1,2 +1,3 @@
 # System-Software-Mini-Project
-Design and Development of Course Registration Portal (Academia).
+The project aims to develop a Academia Portal that is user-friendly and
+multifunctional.
